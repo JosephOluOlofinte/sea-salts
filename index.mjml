@@ -50,7 +50,7 @@
         </mj-hero>
         
         <!-- TWO-COLUMN SECTION 1 -->
-        <mj-section background-color="white" padding="25px 5%" padding-bottom="0px" border-bottom="1px solid grey">
+        <mj-section background-color="white" padding="50px 5% 0px" border-bottom="1px solid grey">
             <mj-column width="65%" vertical-align="middle">
                 <mj-text font-size="24px" font-weight="800">
                     FLEUR DE SEL
@@ -79,20 +79,20 @@
         <mj-section background-color="white" padding="25px 5%" padding-bottom="0px" border-bottom="1px solid grey">
             <mj-column width="65%" vertical-align="middle">
                 <mj-text font-size="24px" font-weight="800">
-                    FLEUR DE SEL
+                    SEL GRIS
                 </mj-text>
 
                 <mj-text font-size="16px" line-height="26px" padding-top="5px" padding-right="7%">
-                    The perfect finishing touch for steamed and grilled veggies, salads, and roasted meats. Sprinkle a little on your favorite dishes for a delicate crunch and a burst of flavor.
+                    This salt is a favorite among our low carb and Keto customers who swear by its benefits in restoring minerals. We love this salt and use it in lots of recipes, and especially love baking with it.
                 </mj-text>
 
                 <mj-button href="#"  padding-top="30px" padding-bottom="25px" align="left" background-color="black" inner-padding="15px 20px" font-weight="600" font-size="16px">
-                    SHOP FLEUR DE SEL &rarr;
+                    SHOP SEL GRIS &rarr;
                 </mj-button>
             </mj-column>
 
             <mj-column width="35%" vertical-align="middle" padding-bottom="25px">
-                <mj-image src="https://blogger.googleusercontent.com/img/a/AVvXsEgx7HtO27umIS6LAycJ7ugNe0enW9j6xP7wHNtEv_mNDWoTVHEGlQPULyA3QOgvbpTpzSHQEuXzsgz8-4scquCy3l6PVhhBJlca9VVLf9v-JPQfwUaE_G-SrUp4Mn8Q8K-pKlxaigXy2-fAzzKIJCkttalgo7OkMJkH6zrpVw5-15RZ6vEYU0QFky81zGhq" alt=""/>
+                <mj-image src="https://blogger.googleusercontent.com/img/a/AVvXsEjNKV9P2VGjZtrYkSSWuFczm6CmgTV7h9QuIrGXwgutpTbnRdDImTyFHq0WWcKKLcVxb_v7AJ3gxUyMjnlC-ET0933zw6CndJtz4bCVoB9t5EMipdWNThSavkx4CaQniLZijwJboCJ6BjFgEaGfjOvipc110c363A5z47Bbjk22xiJnserC4RVbKLmZ-AeG" alt=""/>
             </mj-column>
         </mj-section>
 
@@ -105,20 +105,20 @@
         <mj-section background-color="white" padding="25px 5%" padding-bottom="0px" border-bottom="1px solid grey">
             <mj-column width="65%" vertical-align="middle">
                 <mj-text font-size="24px" font-weight="800">
-                    FLEUR DE SEL
+                    HIMALAYAN PINK SALT
                 </mj-text>
 
                 <mj-text font-size="16px" line-height="26px" padding-top="5px" padding-right="7%">
-                    The perfect finishing touch for steamed and grilled veggies, salads, and roasted meats. Sprinkle a little on your favorite dishes for a delicate crunch and a burst of flavor.
+                    It's mineral-packed which gives it a distinct flavor and makes it seem saltier - and because of this, we find ourselves using less! Perfect for popcorn, French fries, and other snacks.
                 </mj-text>
 
                 <mj-button href="#"  padding-top="30px" padding-bottom="25px" align="left" background-color="black" inner-padding="15px 20px" font-weight="600" font-size="16px">
-                    SHOP FLEUR DE SEL &rarr;
+                    HIMALAYAN PINK SALT &rarr;
                 </mj-button>
             </mj-column>
 
             <mj-column width="35%" vertical-align="middle" padding-bottom="25px">
-                <mj-image src="https://blogger.googleusercontent.com/img/a/AVvXsEgx7HtO27umIS6LAycJ7ugNe0enW9j6xP7wHNtEv_mNDWoTVHEGlQPULyA3QOgvbpTpzSHQEuXzsgz8-4scquCy3l6PVhhBJlca9VVLf9v-JPQfwUaE_G-SrUp4Mn8Q8K-pKlxaigXy2-fAzzKIJCkttalgo7OkMJkH6zrpVw5-15RZ6vEYU0QFky81zGhq" alt=""/>
+                <mj-image src="https://blogger.googleusercontent.com/img/a/AVvXsEi3Ah8ksKEfRwYK0epApPrK0neA3AH5xLaJQ-FQek-LsYooSqQyI7kTQ6r3ciR5CLjDkb2MF74reumOu5hr3_IP561qDwKBH1X94hqT0SxC4xpxzXEFBa2VWDCoTYHJWHKzS2RA1JRn68gAdAXcPX8l2YSIn1TH82cF1OuNSRmgZdPIzmcBPJ7RI5KpNG0g" alt=""/>
             </mj-column>
         </mj-section>
 
@@ -131,20 +131,20 @@
         <mj-section background-color="white" padding="25px 5%" padding-bottom="0px" border-bottom="1px solid grey">
             <mj-column width="65%" vertical-align="middle">
                 <mj-text font-size="24px" font-weight="800">
-                    FLEUR DE SEL
+                    SMOKED BACON SEA SALT
                 </mj-text>
 
                 <mj-text font-size="16px" line-height="26px" padding-top="5px" padding-right="7%">
-                    The perfect finishing touch for steamed and grilled veggies, salads, and roasted meats. Sprinkle a little on your favorite dishes for a delicate crunch and a burst of flavor.
+                    Smoked Salt. Bacon. Nuff Said. This flavorful salt is perfectly sized for a grinder jar and exceptionally flavored for all your smoky cooking. Crush a little on a steak. Try it on grilled veggies. We love it on cookie dough--really!
                 </mj-text>
 
                 <mj-button href="#"  padding-top="30px" padding-bottom="25px" align="left" background-color="black" inner-padding="15px 20px" font-weight="600" font-size="16px">
-                    SHOP FLEUR DE SEL &rarr;
+                    SHOP SMOKED BACON SEA SALT &rarr;
                 </mj-button>
             </mj-column>
 
             <mj-column width="35%" vertical-align="middle" padding-bottom="25px">
-                <mj-image src="https://blogger.googleusercontent.com/img/a/AVvXsEgx7HtO27umIS6LAycJ7ugNe0enW9j6xP7wHNtEv_mNDWoTVHEGlQPULyA3QOgvbpTpzSHQEuXzsgz8-4scquCy3l6PVhhBJlca9VVLf9v-JPQfwUaE_G-SrUp4Mn8Q8K-pKlxaigXy2-fAzzKIJCkttalgo7OkMJkH6zrpVw5-15RZ6vEYU0QFky81zGhq" alt=""/>
+                <mj-image src="https://blogger.googleusercontent.com/img/a/AVvXsEiS7dKf7_nKKGcFjc-ysBc5ZJfHcMUjzyEAv2crYaaCkPFr8PDGv1OuLTUkqflEBSzStSxPu3nZlRHq4p7oGfydGo0swDWQlSU3GruXLsphz5bI8UDA5riMjdL1HUEK3EiZm8GQ-lNMn_f0xEme1OxOXSDe9VNCTV-JUyJWN4BIHJc9PhmhbI1Naew9m9z6" alt=""/>
             </mj-column>
         </mj-section>
 
@@ -157,15 +157,15 @@
         <mj-section background-color="white" padding="25px 5%" padding-bottom="0px" border-bottom="1px solid grey">
             <mj-column width="65%" vertical-align="middle">
                 <mj-text font-size="24px" font-weight="800">
-                    FLEUR DE SEL
+                    SRIRACHA SALT
                 </mj-text>
 
                 <mj-text font-size="16px" line-height="26px" padding-top="5px" padding-right="7%">
-                    The perfect finishing touch for steamed and grilled veggies, salads, and roasted meats. Sprinkle a little on your favorite dishes for a delicate crunch and a burst of flavor.
+                    Uber popular Sriracha and sea salt—a match made in spicy, tangy heaven. Delectable heat of sun-ripened Thai chilies infused into all-natural flake sea salt. Use it in soups, sauces, noodles, pizza, and more.
                 </mj-text>
 
                 <mj-button href="#"  padding-top="30px" padding-bottom="25px" align="left" background-color="black" inner-padding="15px 20px" font-weight="600" font-size="16px">
-                    SHOP FLEUR DE SEL &rarr;
+                    SHOP SRIRACHA SALT &rarr;
                 </mj-button>
             </mj-column>
 
