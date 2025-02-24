@@ -1,0 +1,243 @@
+<mjml>
+
+    <mj-head>
+        <mj-title>ESSENTIAL SEA SALTS FOR EVERY COOK 🧂</mj-title>
+        <mj-breakpoint width="375px" />
+        <mj-attributes><mj-all padding="0" font-family="Raleway" /></mj-attributes>        
+        <mj-font name="Raleway" href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" />
+    </mj-head>
+
+    <mj-body background-color="#E8E6E6">
+
+        <!-- EMPTY SECTION FOR MARGIN -->
+        <mj-section padding="10px"></mj-section>
+
+        <!-- COLORED LINE FOR EFFECT -->
+        <mj-section background-color="#ED8506" padding="5px"></mj-section>
+        
+
+        <!-- COMPANY LOGO -->
+        <mj-section background-color="white" padding-bottom="20px" padding-top="40px">
+            <mj-column padding="0">
+                <mj-image src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXYc3pkf7o6ydi-2JYJwplQDGq9FkHme_akAuKs1X4EOZhyphenhyphen-dVH9KfrZKEVsoGtuutfgYDTlNaiSsbbwbMtXXs89MgZVsZsWv-wZrGssaKUm_I1WIxxxScqxLc6flARyyLsfmxEMVh5EfGGtvz32uwEGr1Z5UZlPssqeIvmUSfoYvGakQJ_OwZdIAm4W5A/s114/logo.png" alt="" height="60px" width="110px" />
+            </mj-column>
+        </mj-section>
+
+        <!-- EMAIL TITLE -->
+        <mj-section background-color="white" padding="20px 0">
+            <mj-column width="100%">
+                <mj-text align="center" padding="0 25px" font-size="32px" font-weight="800" line-height="40px">
+                    ESSENTIAL SEA SALTS FOR EVERY COOK 🧂
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- HERO IMAGE -->
+
+        <mj-hero mode="fluid-height" background-width="600px" background-height="342px" background-url="https://blogger.googleusercontent.com/img/a/AVvXsEgiDGvMdcXoqe1J8kTr8aKiy69dh7tzHVfRU6Qk-fus95DfuvawQ9qktTomRcFhnfrT3ROBHddUtT-rMex4YKAqV6xF3iE2FGyMFwwbWvgrmnBWYY6QjkD07Ab4sl5w1T52dULdJsPsGp7wlQYmhKxFCf11fg8x_A8ucYiHmudUrcKompQ7lh09-2Q1RvYG" padding="3%">
+            <mj-table border="1px solid white" width="100%">
+                <tr style="height:100%; width:100%;background-color:rgba(0, 0, 0, 0.3);">
+                    <td style="padding:20px;">
+                        <br />
+                        <p style="color:white;font-weight:600;font-size:20px;text-align:center;padding-bottom:15px;line-height:25px;">Elevate your dishes with premium sea salts from Red Stick Spice.</p>
+                        <p style="color:white;font-weight:500;font-size:18px;text-align:center;line-height:26px;padding:0 20px;">From the delicate Fleur de Sel to the smoky Smoked Bacon Sea Salt, each variety offers a distinct taste and culinary use that will enhance your dishes in extraordinary ways.
+                        </p>
+                        <br/>
+                        <br/>
+                    </td>
+                </tr>
+            </mj-table>
+        </mj-hero>
+        
+        <!-- TWO-COLUMN SECTION 1 -->
+        <mj-section background-color="white" padding="25px 5%" padding-bottom="0px" border-bottom="1px solid grey">
+            <mj-column width="65%" vertical-align="middle">
+                <mj-text font-size="24px" font-weight="800">
+                    FLEUR DE SEL
+                </mj-text>
+
+                <mj-text font-size="16px" line-height="26px" padding-top="5px" padding-right="7%">
+                    The perfect finishing touch for steamed and grilled veggies, salads, and roasted meats. Sprinkle a little on your favorite dishes for a delicate crunch and a burst of flavor.
+                </mj-text>
+
+                <mj-button href="#"  padding-top="30px" padding-bottom="25px" align="left" background-color="black" inner-padding="15px 20px" font-weight="600" font-size="16px">
+                    SHOP FLEUR DE SEL &rarr;
+                </mj-button>
+            </mj-column>
+
+            <mj-column width="35%" vertical-align="middle" padding-bottom="25px">
+                <mj-image src="https://blogger.googleusercontent.com/img/a/AVvXsEgx7HtO27umIS6LAycJ7ugNe0enW9j6xP7wHNtEv_mNDWoTVHEGlQPULyA3QOgvbpTpzSHQEuXzsgz8-4scquCy3l6PVhhBJlca9VVLf9v-JPQfwUaE_G-SrUp4Mn8Q8K-pKlxaigXy2-fAzzKIJCkttalgo7OkMJkH6zrpVw5-15RZ6vEYU0QFky81zGhq" alt=""/>
+            </mj-column>
+        </mj-section>
+
+        <!-- EMPTY SECTION FOR SPACE -->
+        <mj-section background-color="white" padding="10px">
+            
+        </mj-section>
+
+        <!-- TWO-COLUMN SECTION 2 -->
+        <mj-section background-color="white" padding="25px 5%" padding-bottom="0px" border-bottom="1px solid grey">
+            <mj-column width="65%" vertical-align="middle">
+                <mj-text font-size="24px" font-weight="800">
+                    FLEUR DE SEL
+                </mj-text>
+
+                <mj-text font-size="16px" line-height="26px" padding-top="5px" padding-right="7%">
+                    The perfect finishing touch for steamed and grilled veggies, salads, and roasted meats. Sprinkle a little on your favorite dishes for a delicate crunch and a burst of flavor.
+                </mj-text>
+
+                <mj-button href="#"  padding-top="30px" padding-bottom="25px" align="left" background-color="black" inner-padding="15px 20px" font-weight="600" font-size="16px">
+                    SHOP FLEUR DE SEL &rarr;
+                </mj-button>
+            </mj-column>
+
+            <mj-column width="35%" vertical-align="middle" padding-bottom="25px">
+                <mj-image src="https://blogger.googleusercontent.com/img/a/AVvXsEgx7HtO27umIS6LAycJ7ugNe0enW9j6xP7wHNtEv_mNDWoTVHEGlQPULyA3QOgvbpTpzSHQEuXzsgz8-4scquCy3l6PVhhBJlca9VVLf9v-JPQfwUaE_G-SrUp4Mn8Q8K-pKlxaigXy2-fAzzKIJCkttalgo7OkMJkH6zrpVw5-15RZ6vEYU0QFky81zGhq" alt=""/>
+            </mj-column>
+        </mj-section>
+
+        <!-- EMPTY SECTION FOR SPACE -->
+        <mj-section background-color="white" padding="10px">
+            
+        </mj-section>
+
+        <!-- TWO-COLUMN SECTION 3 -->
+        <mj-section background-color="white" padding="25px 5%" padding-bottom="0px" border-bottom="1px solid grey">
+            <mj-column width="65%" vertical-align="middle">
+                <mj-text font-size="24px" font-weight="800">
+                    FLEUR DE SEL
+                </mj-text>
+
+                <mj-text font-size="16px" line-height="26px" padding-top="5px" padding-right="7%">
+                    The perfect finishing touch for steamed and grilled veggies, salads, and roasted meats. Sprinkle a little on your favorite dishes for a delicate crunch and a burst of flavor.
+                </mj-text>
+
+                <mj-button href="#"  padding-top="30px" padding-bottom="25px" align="left" background-color="black" inner-padding="15px 20px" font-weight="600" font-size="16px">
+                    SHOP FLEUR DE SEL &rarr;
+                </mj-button>
+            </mj-column>
+
+            <mj-column width="35%" vertical-align="middle" padding-bottom="25px">
+                <mj-image src="https://blogger.googleusercontent.com/img/a/AVvXsEgx7HtO27umIS6LAycJ7ugNe0enW9j6xP7wHNtEv_mNDWoTVHEGlQPULyA3QOgvbpTpzSHQEuXzsgz8-4scquCy3l6PVhhBJlca9VVLf9v-JPQfwUaE_G-SrUp4Mn8Q8K-pKlxaigXy2-fAzzKIJCkttalgo7OkMJkH6zrpVw5-15RZ6vEYU0QFky81zGhq" alt=""/>
+            </mj-column>
+        </mj-section>
+
+        <!-- EMPTY SECTION FOR SPACE -->
+        <mj-section background-color="white" padding="10px">
+            
+        </mj-section>
+
+        <!-- TWO-COLUMN SECTION 4 -->
+        <mj-section background-color="white" padding="25px 5%" padding-bottom="0px" border-bottom="1px solid grey">
+            <mj-column width="65%" vertical-align="middle">
+                <mj-text font-size="24px" font-weight="800">
+                    FLEUR DE SEL
+                </mj-text>
+
+                <mj-text font-size="16px" line-height="26px" padding-top="5px" padding-right="7%">
+                    The perfect finishing touch for steamed and grilled veggies, salads, and roasted meats. Sprinkle a little on your favorite dishes for a delicate crunch and a burst of flavor.
+                </mj-text>
+
+                <mj-button href="#"  padding-top="30px" padding-bottom="25px" align="left" background-color="black" inner-padding="15px 20px" font-weight="600" font-size="16px">
+                    SHOP FLEUR DE SEL &rarr;
+                </mj-button>
+            </mj-column>
+
+            <mj-column width="35%" vertical-align="middle" padding-bottom="25px">
+                <mj-image src="https://blogger.googleusercontent.com/img/a/AVvXsEgx7HtO27umIS6LAycJ7ugNe0enW9j6xP7wHNtEv_mNDWoTVHEGlQPULyA3QOgvbpTpzSHQEuXzsgz8-4scquCy3l6PVhhBJlca9VVLf9v-JPQfwUaE_G-SrUp4Mn8Q8K-pKlxaigXy2-fAzzKIJCkttalgo7OkMJkH6zrpVw5-15RZ6vEYU0QFky81zGhq" alt=""/>
+            </mj-column>
+        </mj-section>
+
+        <!-- EMPTY SECTION FOR SPACE -->
+        <mj-section background-color="white" padding="10px">
+            
+        </mj-section>
+
+        <!-- TWO-COLUMN SECTION 5 -->
+        <mj-section background-color="white" padding="25px 5%" padding-bottom="0px" border-bottom="1px solid grey">
+            <mj-column width="65%" vertical-align="middle">
+                <mj-text font-size="24px" font-weight="800">
+                    FLEUR DE SEL
+                </mj-text>
+
+                <mj-text font-size="16px" line-height="26px" padding-top="5px" padding-right="7%">
+                    The perfect finishing touch for steamed and grilled veggies, salads, and roasted meats. Sprinkle a little on your favorite dishes for a delicate crunch and a burst of flavor.
+                </mj-text>
+
+                <mj-button href="#"  padding-top="30px" padding-bottom="25px" align="left" background-color="black" inner-padding="15px 20px" font-weight="600" font-size="16px">
+                    SHOP FLEUR DE SEL &rarr;
+                </mj-button>
+            </mj-column>
+
+            <mj-column width="35%" vertical-align="middle" padding-bottom="25px">
+                <mj-image src="https://blogger.googleusercontent.com/img/a/AVvXsEgx7HtO27umIS6LAycJ7ugNe0enW9j6xP7wHNtEv_mNDWoTVHEGlQPULyA3QOgvbpTpzSHQEuXzsgz8-4scquCy3l6PVhhBJlca9VVLf9v-JPQfwUaE_G-SrUp4Mn8Q8K-pKlxaigXy2-fAzzKIJCkttalgo7OkMJkH6zrpVw5-15RZ6vEYU0QFky81zGhq" alt=""/>
+            </mj-column>
+        </mj-section>
+
+        <!-- EMPTY SECTION FOR SPACE -->
+        <mj-section background-color="white" padding="10px">
+            
+        </mj-section>
+
+        
+
+        <!-- EMAIL FOOTER -->
+        <mj-wrapper background-color="#EDEBDE" padding="30px 0">
+
+            <!-- SOCIAL ICONS -->
+            <mj-section text-align="center">
+                <mj-column width="100%">
+
+                    <mj-social icon-padding="8px">
+                        <mj-social-element href="#" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoKOy6-dVCFcIaOtpEGeBOe7vFHLilyPL2YOFaSoK5cSrTytHodq1khSnGqAO12Hn4ecnkwJuqhAO_I4il1Jffs7pxw_pf2zou34RvpwjP7_dbhREkFIJn-n1DE_puJxaMyLx3FqikaAMfjDgykZKnwABwZliAYeDVsuLBy2V4uSQ3iEuik63gi7Zv8BgX/s1600/x-logo.png">                           
+                        </mj-social-element>
+
+                        <mj-social-element href="#" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3bl5L3TV5LOTsJRieqG-BB5lOdHsu-Q6qIs8dUt2SPjS3-VovDN5brpoCx2k4it8VNnOIB2cQ_w2A5Otl-WB9FtpugYBMkosbdey2tIW31e5jamZ36M_VTT-G-swJxSXug6t5zRGcR4VtsARLJXQVGPeivJ47FtVbKeuRqOWptbJ3Xjyvo4lEmyb6JjW1/s1600/fb-logo.png">                           
+                        </mj-social-element>
+
+                        <mj-social-element href="#" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmWwvdNkYZeVENUAR_mTpL3_DQORTojsJwbWyPRuvj4nyUzbbbVrr-qfW-2AdaEIIrvt2DlS9VALYcmz8FOxVu8ga6CooFouvCeG4oLR9x97Wbxtq8sRxe0pY1k5jXatdRL1EBSDEW9ov_2eB0rl29fqhIQrN81Tmw38kXvI4x87QkHdEN5goZc8EyU-5e/s1600/in-logo.png">
+                        </mj-social-element>
+
+                        <mj-social-element href="#" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZK_nejoyZjVc3cZL9kQEFERty8-g7f2zVM1d3j_-4G6KpKJVqj6A0IojtXhD6LEt0Q3d27pNuGe2nE_z2dkao5fVw1tTz5KVhYySaD-XRK4UGMPx-Z28sBKcQkI9s9RwB8TvqurDFOCAfdm0nveFjzYiWei57rY3_Os846ZcUfGtq6mxDYBw-c56zPAI0/s1600/pin-logo.png">                           
+                        </mj-social-element>
+
+                        <mj-social-element href="#" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpF9v-naoST-k-CLAq5NNgZnDlpRVqjeJTxuZMBJtuOKS5ELOsF5OOoajnBYUIBInT2-IpAuO6U8l9kHaEYZuQo9P_GdB_eJFRNZEtum67Cf3lEsFtO1wqzfnwleUiuF7NguIs3du7E9SrVuhumJivuQ5fZxLnYl026EMPXMPtX6NlCdrof7LK-6yDxGxs/s1600/gram-logo.png">                            
+                        </mj-social-element>
+                    </mj-social>
+                </mj-column>
+            </mj-section>
+            
+            <!-- COMPANY LOGO -->
+            <mj-section padding="20px 0">
+                <mj-column padding="0">
+                    <mj-image src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXYc3pkf7o6ydi-2JYJwplQDGq9FkHme_akAuKs1X4EOZhyphenhyphen-dVH9KfrZKEVsoGtuutfgYDTlNaiSsbbwbMtXXs89MgZVsZsWv-wZrGssaKUm_I1WIxxxScqxLc6flARyyLsfmxEMVh5EfGGtvz32uwEGr1Z5UZlPssqeIvmUSfoYvGakQJ_OwZdIAm4W5A/s114/logo.png" alt="" height="60px" width="110px" />
+                </mj-column>
+            </mj-section>
+
+            <!-- FOOTER TEXTS -->
+            <mj-section>
+                <mj-column width="100%">
+                    <mj-text align="center">
+                        © 2024 Red Stick Spice Company.
+                    </mj-text>
+
+                    <mj-text align="center" padding="15px 80px" line-height="20px">
+                        Our original Baton Rouge, Louisiana retail shop is located at <span style="color:#ED8506">660 Jefferson Hwy.</span> <br /><br> 
+                        Questions? We'd love to chat. <br /> 
+                        Give us a call at <b>225-930-9967</b>
+                    </mj-text>
+
+                    <mj-text align="center">
+                       <a href="#" style="color:#000000;text-decoration:none;">Unsubscribe</a>  | <a href="#" style="color:#000000;text-decoration:none;">Privacy Policy</a> 
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+
+        <!-- COLORED LINE FOR EFFECT -->
+        <mj-section background-color="#ED8506" padding="5px"></mj-section>
+
+        <!-- EMPTY SECTION FOR MARGIN -->
+        <mj-section padding="20px"></mj-section>
+    </mj-body>
+</mjml>
