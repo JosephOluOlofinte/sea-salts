@@ -3,7 +3,7 @@
     <mj-head>
         <mj-title>ESSENTIAL SEA SALTS FOR EVERY COOK 🧂</mj-title>
         <mj-breakpoint width="480px" />
-        <mj-attributes><mj-all padding="0" font-family="Raleway" /></mj-attributes>        
+        <mj-attributes><mj-all padding="0" font-family="Raleway, Tahoma" /></mj-attributes>        
         <mj-font name="Raleway" href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" />
     </mj-head>
 
